@@ -1,0 +1,286 @@
+,Likely reason for mistake,Negative transfer?,count
+51,Chinese uses commas to mark the end of a complete thought,Y,270
+39,Chinese has no articles and doesn't use classifiers in this situation,Y,188
+158,Overcorrection,N,186
+14,Chinese conventions conflict with English,Y,146
+79,English words map to the same Chinese word,Y,77
+130,Missing plural,Y,76
+35,Chinese generally expresses actions in present tense,Y,71
+55,"Chinese verbs, adjectives, and nouns sometimes are the same",Y,71
+67,Confusion about the word meaning and/or application,N,70
+28,Chinese doesn't use the word in this context,Y,57
+219,Spelling error,N,57
+265,Word omitted even though in the Chinese translation it would be there,N,50
+139,Misunderstanding of word usage/meaning,N,49
+46,Chinese sentence structure differs from English,Y,45
+43,Chinese is a pro-drop language,Y,41
+153,Number error,Y,41
+86,Error that native speakers would make as well,N,39
+264,Word not capitalized,Y,39
+13,Chinese convention of expressing the same action differ from English,Y,36
+116,Incorrectly using progressive aspect,N,36
+70,Confusion of phrase meaning and usage,N,35
+204,Progressive aspect not applied,Y,33
+60,Chinese would use word in the given context,Y,30
+149,Not applying the 3rd person present tense suffix -s,Y,28
+23,Chinese does not use conjunctions to join clauses,Y,27
+115,Incorrectly using past tense,N,27
+4,3rd person singular form used isntead of 3rd person plural verb form,Y,26
+185,Phrases map to the same Chinese phrase,Y,25
+207,Punctuation error related to Spelling errors (extra spaces),N,24
+123,"Missing ""to"" for to-infinitive non-finite subordinate clauses",Y,22
+152,Number disagreement,N,22
+269,Wordiness,N,22
+3,3rd person plural verb form used instead of 3rd person singular form,?,21
+147,Modal used for polite speech,Y,21
+161,Overgeneralization,N,21
+82,Equivalent word exists but is not used,N,19
+114,Incorrect/incomplete expression used,N,19
+248,Using 'It' incorrectly,N,19
+272,Wrong determiner used,N,19
+1,"""of"" maps to the gentive/possessive marker 的 in Chinese",Y,18
+29,Chinese doesn't use the word in this context but learner included it,N,18
+50,Chinese uses classifiers instead of articles in this case,Y,17
+73,Context carries tense rather than verb.,Y,17
+126,Missing auxiliary with tense errors,Y,17
+189,Preposition that makes most sense to Chinese speakers is used,Y,17
+259,"Using the infinitive form of the verb with ""to"" instead of using present tense or present progressive",?,17
+2,-,N,16
+216,Sentence could be valid in Chinese,Y,16
+273,Wrong determiner used since Chinese doesn't use determiner here,N,16
+277,general grammar rules confusion,N,16
+18,Chinese does not distinguish between mass and coun nouns,Y,14
+96,Inappropriate capitalization in the middle of sentence,N,14
+209,Punctuation works the same in Chinese,N,14
+220,Spelling mistake,N,14
+237,Unnecessary auxiliary added,N,14
+24,Chinese doesn't distinguish indefinite and definite articles like English,N,13
+206,Pronoun not used in Chinese,N,13
+260,Using your instead of yours for sign offs,N,13
+25,Chinese doesn't use hypens in words,Y,12
+33,Chinese expresses this in a different order/structure,N,12
+91,General grammar rules confusion,N,12
+100,Incorrect application of 3rd person present tense (e.g. tagging on the suffix -s),N,12
+154,Order is incorrect in Chinese and English,N,12
+61,Chinese would use word in this context,Y,11
+69,Confusion about the word meaning and/or application; Could be overgeneralization,N,11
+208,Punctuation error related to Spelling errors (missing space),Y,11
+58,Chinese would use a different word in given context,Y,10
+95,Grammatical to exclude or include the word in Chinese,Y,10
+165,Overgeneralization of word pairs,N,10
+232,This expression doesn't exist in Chinese,N,10
+247,"Using ""in"" to show something taking place somewhere instead of ""at""",Y,10
+44,Chinese phrase would be structured differently,N,9
+108,Incorrect introduction of subordinate clause or modifiers,Y,9
+142,Misusing preposition,N,9
+205,Pronoun can also be used here in Chinese,N,9
+230,The two words are the same in this context in Chinese,Y,9
+8,Adjective/modifier precedes described object,Y,8
+113,Incorrect synonym used,N,8
+156,Overcorrecting by introducing locations or time using prepositions,N,8
+236,Unexplainable punctuation used,N,8
+242,Used a word which could also be used in this context,N,8
+26,Chinese doesn't use hyphens in words,Y,7
+47,Chinese uses a character that maps a determiner in this case,Y,7
+157,Overcorrecting for prepositions introducing subordinate phrases,N,7
+214,Semantic error,N,7
+228,The two modals are equivalent in Chinese,Y,7
+238,Unnecessary verb added,N,7
+263,Will and would map to the same word in Chinese,Y,7
+11,Both the incorrect and corrected terms could be used,Y,6
+16,Chinese could use a classifier in this context,Y,6
+20,Chinese does not have auxiliary verbs,Y,6
+83,Error,N,6
+109,Incorrect introduction to subordinate phrase/modifier,N,6
+150,Notation does not show the word switched,-,6
+159,"Overcorrection by adding ""to"" to show the object of transitive verbs",N,6
+187,Possessive structure would not be used in here in Chinese,Y,6
+211,Quantifier would not be used in this context in Chinese,N,6
+213,Relative adverb missing,Y,6
+257,Using possessive case inappropriately,N,6
+268,Word prior or after contains the word in Chinese equivalent,Y,6
+48,Chinese uses a different word from English,Y,5
+71,"Confusion of the meaning of ""do""",Y,5
+78,Derived form is wrong,N,5
+88,"Errors with ""got""",Y,5
+124,Missing apostrophy,N,5
+132,Missing word is important to the sentence,N,5
+133,"Misuing ""for""",N,5
+136,"Misuing ""for""; mistake even native speakers would make",N,5
+141,Misusing about,Y,5
+162,"Overgeneralization of ""get""   ",N,5
+182,Past tense used instead of past perfect,N,5
+212,Random pronoun used instead of null pronoun,N,5
+275,Wrong prepositional phrase used,N,5
+6,"Adding ""concerning""'s or ""for""'s Chinese equivalent would make the sentence more ""formal"" in Chinese",Y,4
+19,Chinese does not have a null pronoun like 'It' so used 'that',Y,4
+75,Context carries tense rather than verb; Generally Chinese usually express actions in present tense,Y,4
+92,Generally Chinese usually express actions in present tense,Y,4
+103,Incorrect auxiliary used,N,4
+111,Incorrect plural inflection,N,4
+118,Interrogative structure used in a non-interrogative sentence,N,4
+134,"Misuing ""for""; Learners have confused the two's meaning and usage",N,4
+195,Present perfect used instead of past perfect,Y,4
+223,Subject or object not specified,N,4
+231,The two words map to the same word in Chinese,Y,4
+244,Used plural form instead of singular form,N,4
+31,Chinese equivalent maps to only a part of the English word,Y,3
+32,Chinese equivalent sentence would use corrected equivalent as well,N,3
+40,Chinese has no plural marking,Y,3
+49,Chinese uses classifiers in this case,Y,3
+54,Chinese usually express actions in present tense,Y,3
+77,Contraction with verb error,N,3
+89,Extra unecessary auxiliary added,N,3
+110,Incorrect modal contractions,N,3
+128,Missing modal,Y,3
+129,Missing part of the adverb,N,3
+144,Modal confusion,N,3
+145,Modal confusion,Y,3
+163,"Overgeneralization of ""give""",N,3
+169,Overgeneralizing the meaning of bring,Y,3
+246,"Using ""in"" to indicate a specific time",Y,3
+258,Using the action noun instead of product noun,Y,3
+262,Verb/word prior of the preposition conveys the same message,N,3
+0,"""effect"" and ""affect"" confused for one another.        ",N,2
+21,Chinese does not have one verb direclty following another,Y,2
+36,Chinese generally expresses actions in present tense.,Y,2
+41,Chinese in many contexts use colons in letters,Y,2
+53,Chinese uses question marks to show indirect questions,Y,2
+56,Chinese would also use distinct adjective form,N,2
+59,Chinese would use phrase in given context,Y,2
+62,Comma splice,N,2
+72,Confusion that auxiliary tense needs to match with past participle tense,Y,2
+94,Grammatical to exclude or include the word in Chinese,N,2
+98,Incoherent phrase used,Y,2
+112,Incorrect structure used,N,2
+140,Misunderstanding the meaning of the word,N,2
+164,Overgeneralization of colon usage to introduce lists,N,2
+173,Past participle used instead of past tense,N,2
+180,Past tense used instead of infinitive auxiliary + ed,Y,2
+183,Past tense used instead of present tense,N,2
+188,Preposition that makes most sense to Chinese speakers is used,N,2
+192,Present continuous tense used incorrectly,N,2
+202,Progressive aspect incorrectly applied,N,2
+222,Structure differs in Chinese,N,2
+245,Used singular form instead of plural form,Y,2
+254,Using past participle instead of past tense,N,2
+256,Using posessive apostrophy as Chinese 'de',Y,2
+261,Verb spelling confusion,N,2
+267,Word pair misunderstanding,N,2
+270,Wrong article used,N,2
+279,that vs which confusion,N,2
+5,Accusative case is preferred in Chinese,Y,1
+7,Additional auxiliary added,N,1
+9,Applying same tense to all verbs to show tense,N,1
+10,Article and comma issue,Y,1
+12,Chinese can express the statement with or without the missing verb,N,1
+15,"Chinese conventions conflict with English; Misuing ""for""",Y,1
+17,Chinese could use word in the given context,Y,1
+22,Chinese does not inflect for plurals,Y,1
+27,Chinese doesn't use the word in this context,N,1
+30,Chinese doesn't use the word in this context but learner included it; Preposition that makes most sense to Chinese speakers is used,Y,1
+34,Chinese generally expresses actions in present tense,N,1
+37,"Chinese generally expresses actions in present tense; Buildings are stationary, action verbs don't apply to them.",Y,1
+38,Chinese generally expresses actions in present tense; Context carries tense rather than verb.,Y,1
+42,Chinese interrogatives have different structure,Y,1
+45,Chinese possessive modifier is used in this context,Y,1
+52,Chinese uses preposition in this context,Y,1
+57,Chinese would not use quantifier here,Y,1
+63,Compound noun error,N,1
+64,Confusing word,?,1
+65,Confusing word,N,1
+66,Confusing word; Misunderstanding the meaning of the word,N,1
+68,Confusion about the word meaning and/or application,Y,1
+74,Context carries tense rather than verb; Chinese generally expresses actions in present tense,Y,1
+76,Context carries tense rather than verb; Missing auxiliary with tense errors,Y,1
+80,English words map to the same Chinese word; Chinese would use word in the given context,Y,1
+81,"English words map to the same Chinese word; Misuing ""for""",Y,1
+84,Error made sense in the original context,N,1
+85,Error native English speakers would make as well,N,1
+87,Error with usage of be,Y,1
+90,Extra unecessary auxiliary added; past perfect used instead of past tense,N,1
+93,Generally Chinese usually express feelings in present tense,Y,1
+97,Incoherent phrase used,N,1
+99,Incomplete expression used,N,1
+101,Incorrect application of 3rd person present tense suffix -s,N,1
+102,Incorrect article placement,N,1
+104,Incorrect auxiliary used; Extra unecessary auxiliary added; Present perfect used instead of past tense,N,1
+105,Incorrect auxiliary used; Past tense used incorrectly,N,1
+106,Incorrect auxiliary used; incorrect verb assignment,N,1
+107,Incorrect gender used,N,1
+117,Interrogative sentence order error,N,1
+119,"Makes sense in the context, one is just more correct than the other",N,1
+120,Map to the same pronoun in Chinese,Y,1
+121,Marker changes the meaning,-,1
+122,Might be trying to say begin,N,1
+125,Missing article,Y,1
+127,Missing auxiliary with tense errors; Context carries tense rather than verb,Y,1
+131,Missing quantifier,Y,1
+135,"Misuing ""for""; Preposition that makes most sense to Chinese speakers is used",N,1
+137,Misunderstanding of comma rule,N,1
+138,Misunderstanding of period usage,N,1
+143,Modal and pronoun in incorrect order,N,1
+146,Modal confusion; May and can are equivalent in Chinese,Y,1
+148,Negation not applied,Y,1
+151,Noun following the verb is the verb in Chinese,Y,1
+155,Overcorrecting,N,1
+160,Overcorrection; Number error,N,1
+166,"Overgeneralizing meaning of ""change""",N,1
+167,"Overgeneralizing meaning of ""change""",Y,1
+168,"Overgeneralizing meaning of ""come""",Y,1
+170,Overusing auxiliary,N,1
+171,Passive voice used incorrectly,N,1
+172,Past continuous used instead of past perfect,N,1
+174,Past perfect progressive used instead of past tense; Extra unecessary auxiliary added,N,1
+175,Past perfect used instead of past tense,N,1
+176,Past perfect used instead of past tense; Extra unecessary auxiliary added,N,1
+177,Past progressive used instead of past tense,N,1
+178,Past progressive used instead of past tense; Extra unecessary auxiliary added,N,1
+179,Past tense not applied,Y,1
+181,Past tense used instead of past participle,N,1
+184,Phrase are equivalent in Chinese,Y,1
+186,Plural version of word is confusing,N,1
+190,"Preposition was used for the word before the conjunction, so the second preposition was omitted",Y,1
+191,Preposition would signify a different sentence structure,N,1
+193,Present continuous used isntead of present; Chinese generally expresses actions in present tense,Y,1
+194,Present perfect tense used incorrectly,N,1
+196,Present perfect used instead of past tense,N,1
+197,Present tense used instead of past present perfect continuous,N,1
+198,Present tense used instead of present perfect; Chinese generally expresses actions in present tense,Y,1
+199,Present tense used instead of present progressive,Y,1
+200,Present tense used instead of present progressive; Chinese would use word in the given context; Missing auxiliary with tense errors,Y,1
+201,Present tense used instead of progressive aspect,Y,1
+203,Progressive aspect mistaken as present tense; Chinese generally uses present tense for actions,Y,1
+210,Punctuation works the same in Chinese/Unexplainable punctuation used,N,1
+215,Semantic issue,Y,1
+217,Sentence itself is ungrammatical,N,1
+218,Sentence not cohesive with previous or next sentence,N,1
+221,Structural problems and tense error with the sentence,N,1
+224,Subjunctive error,Y,1
+225,Such usage of periods don't exist in Chinese,N,1
+226,Tense doesn't match the rest of the sentence,Y,1
+227,Tense doesn't match the rest of the sentence; Applying same tense to all verbs to show tense,N,1
+229,The two words are the same in this context in Chinese,N,1
+233,This person is overusing auxiliaries/modal verbs,N,1
+234,Thought talking about a feeling that is ongoing which sprouted in the past would be in past tense,N,1
+235,Thoughts and feelings are usually in present tense in Chinese,Y,1
+239,"Used a ""rude"" version to convey the message       ",N,1
+240,"Used a ""rude"" version to convey the message        ",N,1
+241,Used a synonym which could also be used in this context,N,1
+243,Used a word which could also be used in this context; Chinese convention of expressing the same action differ from English,Y,1
+249,Using a personhood pronoun inappropriately,N,1
+250,Using a personhood pronoun inappropriately,Y,1
+251,Using auxiliary in past tense to inflect tense rather than changing the lexical verb's tense,Y,1
+252,Using future tense in combination with past confuses Chinese learners,N,1
+253,Using modals to show continuation of an event,N,1
+255,Using past tense instead of past participle,N,1
+266,Word omitted even though in the Chinese translation it would be there,Y,1
+271,Wrong auxiliary used; Extra unecessary auxiliary added,N,1
+274,Wrong past tense inflection,N,1
+276,Wrong quantifier used (countability),N,1
+278,"semantics issue
+
+has finished --> has no potential for being finished
+has been finish --> ongoing process that has been finished
+
+has to do with process",N,1

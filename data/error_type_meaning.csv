@@ -1,0 +1,77 @@
+error_type,meaning,structural
+AG,agreement error,True
+AGA,anaphor agreement error,True
+AGD,determiner agreement error,True
+AGN,noun agreement error,True
+AGQ,quantifier agreement error,True
+AGV,verb agreement error,True
+AS,argument structure error,True
+CD,wrong determiner because of noun countability,True
+CE,complex error,False
+CL,collocation or tautology error,False
+CN,countability of noun error,True
+CQ,wrong quantifier because of noun countability,True
+DA,derivation of anaphor error,True
+DC,derivation of link word error,True
+DD,derivation of determiner error,True
+DI,incorrect determiner inflection,True
+DJ,derivation of adjective error,True
+DN,derivation of noun error,True
+DQ,derivation of quantifier error,True
+DT,derivation of preposition error,True
+DV,derivation of verb error,True
+DY,derivation of adverb error,True
+FA,wrong anaphor form,True
+FD,incorrect determiner form,True
+FJ,wrong adjective form,True
+FN,wrong noun form,True
+FQ,wrong quantifier form,True
+FV,wrong verb form,True
+FY,wrong adverb form,True
+IA,incorrect anaphor inflection,True
+ID,idiom wrong,False
+IJ,incorrect adjective inflection,True
+IN,incorrect noun inflection,True
+IQ,incorrect quantifier inflection,True
+IV,incorrect verb inflection,True
+IY,incorrect adverb inflection,True
+L,inappropriate register,True
+M,missing error,True
+MA,missing anaphor,True
+MC,missing link word,True
+MD,missing determiner,True
+MJ,missing adjective,True
+MN,missing noun,True
+MP,missing punctuation,True
+MQ,missing quantifier,True
+MT,missing preposition,True
+MV,missing verb,True
+MY,missing adverb,True
+R,replace error,False
+RA,replace anaphor,True
+RC,replace link word,False
+RD,replace determiner,True
+RJ,replace adjective,False
+RN,replace noun,False
+RP,replace punctuation,True
+RQ,replace quantifier,True
+RT,replace preposition,False
+RV,replace verb,False
+RY,replace adverb,False
+S,spelling error,False
+SA,spelling American,False
+SX,spelling confusion,False
+TV,incorrect tense of verb,True
+U,unnecessary error,True
+UA,unnecessary anaphor,True
+UC,unnecessary link word,True
+UD,unnecessary determiner,True
+UJ,unnecessary adjective,True
+UN,unnecessary noun,True
+UP,unnecessary punctuation,True
+UQ,unnecessary quantifier,True
+UT,unnecessary preposition,True
+UV,unnecessary verb,True
+UY,unnecessary adverb,True
+W,word order error,True
+X,incorrect negative formation,True
