@@ -17,3 +17,22 @@ To select the best parameters for the random forest model used in this classific
 
 ## Analysis
 The training and testing of the final classification models are available in a jupyter notebook. Run `jupyter notebook` on the repository's root to access the [NLT_classification.ipynb](NLT_classification.ipynb) interactive analysis notebook.
+
+## Reference
+Leticia Farias Wanderley, Nicole Zhao, and Carrie Demmans Epp. [Negative language transfer in learner English: A new dataset](https://www.aclweb.org/anthology/2021.naacl-main.251/). In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages 3129–3142, Online, June 2021. Association for Computational Linguistics.
+
+```
+@inproceedings{farias-wanderley-etal-2021-negative,
+    title = "Negative language transfer in learner {E}nglish: A new dataset",
+    author = "Farias Wanderley, Leticia  and
+      Zhao, Nicole  and
+      Demmans Epp, Carrie",
+    booktitle = "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    month = jun,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2021.naacl-main.251",
+    pages = "3129--3142"
+}
+```
